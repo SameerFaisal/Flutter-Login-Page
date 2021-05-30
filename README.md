@@ -1,20 +1,3 @@
-<<<<<<< HEAD
-# hello
+# Simple Flutter Login Page
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# Flutter-Login-Page
->>>>>>> origin/main
+![image](https://user-images.githubusercontent.com/45840879/120104111-587abe80-c16c-11eb-93bf-b0445af64ff7.png)
